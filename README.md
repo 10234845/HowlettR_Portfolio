@@ -8,4 +8,4 @@ Habitica is a productivity/habit-forming website and app that uses video game me
 | --- | --- | --- |
 | JavaScript | https://script.google.com/d/10yhAoNpWajdJcuWSdJ-j4aY3hltzauqSqwKM8IjuHdKH2roDkFdjPnx9/edit?usp=sharing | ![Creative Commons license](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) |
 
-![Habitica logo](https://i.imgur.com/RcVvM7C.png)
+![Habitica logo](https://i.imgur.com/SHbrLfc.png)
